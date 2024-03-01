@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSRunspaceTest", "PSRunspaceTest\PSRunspaceTest.csproj", "{D4D7C230-6878-4330-B9AD-F21122A53ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D7C230-6878-4330-B9AD-F21122A53ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D7C230-6878-4330-B9AD-F21122A53ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D7C230-6878-4330-B9AD-F21122A53ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D7C230-6878-4330-B9AD-F21122A53ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B36A56-8DCE-44DE-A290-88BCC6843549}
+	EndGlobalSection
+EndGlobal
